@@ -24,5 +24,10 @@
   "homepage": "https://github.com/zeppelinos/core#readme",
   "devDependencies": {
     "truffle": "^4.1.0"
+  },
+  "dependencies": {
+    "commander": "^2.14.1",
+    "fs": "0.0.1-security",
+    "solidity-parser-antlr": "https://github.com/federicobond/solidity-parser-antlr.git"
   }
 }
